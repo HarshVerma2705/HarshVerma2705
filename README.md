@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Harsh Verma 👋
 
-<!--
-**HarshVerma2705/HarshVerma2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech IT @ AKTU | Aspiring Full-Stack Engineer  
+💻 Backend: Node.js, Express, JWT, RBAC, Idempotency  
+🎨 Frontend: React, Tailwind CSS, Vanilla JS  
+🐘 Currently learning: PostgreSQL & System Design  
+🚀 Building: Full-Stack Event Management Platform (Summer 2026)  
+🌐 Portfolio: [harshverma.me](https://harshverma.me) *(coming soon)*
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth, Refresh Tokens  
+**Frontend:** React, JavaScript, HTML/CSS, Tailwind CSS  
+**Database:** MongoDB (experienced) → PostgreSQL (learning)  
+**DevOps:** Docker, GitHub Actions, Linux, Nginx *(learning)*  
+**Tools:** Git, WSL, WebStorm, GitHub Copilot  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+| Project | Stack | Live |
+|---------|-------|------|
+| [Mini Arcade](https://github.com/HarshVerma2705/Mini-Arcade--Reactjs) | React + Vite + Tailwind | [Live ↗](https://mini-arcade-reactjs.vercel.app/) |
+| [Multi-Tenant Blog API](https://github.com/HarshVerma2705/multi_tenant_blogging_API) | Node + Express + MongoDB | API Docs |
+| [MoneyFlow](https://github.com/HarshVerma2705/MoneyFlow) | Node + Express + MongoDB | API Docs |
+| [Snake Game](https://github.com/HarshVerma2705/snake-game) | Vanilla JS | [Live ↗](https://harshverma2705.github.io/snake-game/) |
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/harsh-v-59046521a/
+- Email: hv152775@gmail.com
