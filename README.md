@@ -18,8 +18,8 @@
 | Project | Stack | Live |
 |---------|-------|------|
 | [Mini Arcade](https://github.com/HarshVerma2705/Mini-Arcade--Reactjs) | React + Vite + Tailwind | [Live ↗](https://mini-arcade-reactjs.vercel.app/) |
-| [Multi-Tenant Blog API](https://github.com/HarshVerma2705/multi_tenant_blogging_API) | Node + Express + MongoDB | API Docs |
-| [MoneyFlow](https://github.com/HarshVerma2705/MoneyFlow) | Node + Express + MongoDB | API Docs |
+| [Multi-Tenant Blog API](https://github.com/HarshVerma2705/multi_tenant_blogging_API) | Node + Express + MongoDB | local |
+| [MoneyFlow](https://github.com/HarshVerma2705/MoneyFlow) | Node + Express + MongoDB | local |
 | [Snake Game](https://github.com/HarshVerma2705/snake-game) | Vanilla JS | [Live ↗](https://harshverma2705.github.io/snake-game/) |
 
 ## 📫 Connect
