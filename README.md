@@ -23,5 +23,5 @@
 | [Snake Game](https://github.com/HarshVerma2705/snake-game) | Vanilla JS | [Live ↗](https://harshverma2705.github.io/snake-game/) |
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/harsh-v-59046521a/
+- LinkedIn: https://www.linkedin.com/in/harsh2705/
 - Email: hv152775@gmail.com
