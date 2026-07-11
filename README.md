@@ -5,7 +5,7 @@
 🎨 Frontend: React, Tailwind CSS, Vanilla JS  
 🐘 Currently learning: PostgreSQL & System Design  
 🚀 Building: Full-Stack Event Management Platform (Summer 2026)  
-🌐 Portfolio: [harshverma.me](https://harshverma.me) *(coming soon)*
+
 
 ## 🛠 Tech Stack
 **Backend:** Node.js, Express.js, REST APIs, JWT Auth, Refresh Tokens  
